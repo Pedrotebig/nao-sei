@@ -113,9 +113,9 @@ criaCartão(
 )
 
 criaCartão(
-    'Matemática',
-    'Pergunta',
-    'Resposta'
+    'Inglês',
+    'como se pergunta "o que?" em inglês?',
+    'What '
 )
 
 //Ao todo são 20 perguntas de memorização do ensino médio
