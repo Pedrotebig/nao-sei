@@ -51,10 +51,11 @@ footer{
 }
 
 .cartao:hover{
-    transform: scale(1.03);
+    transform: scale(1.037);
 }
 
 .resposta-cartao{
     background-color: var(--verso-cartão);
     padding: 40px;
+    display: none;
 }
