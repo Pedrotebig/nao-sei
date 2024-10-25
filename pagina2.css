@@ -48,3 +48,7 @@ footer{
     color: var(--preto);
     box-shadow: 11px 8px 2px var(--preto);
 }
+
+.cartao:hover{
+    transform: scale(1.04);
+}
