@@ -8,25 +8,25 @@
 
 }
 
-body{
+body {
     background-color: var(--fundo);
     margin: 0;
 
 }
 
-header{
+header {
     background-color: var(--preto);
-display: flex;
-justify-content: space-around;
-padding: 2rem;
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
 }
 
-header a{
+header a {
     color: var(--branco);
     text-decoration: none;
 }
 
-footer{
+footer {
     background-color: var(--preto);
     position: fixed;
     bottom: 0;
@@ -35,13 +35,13 @@ footer{
     text-align: center;
 }
 
-#container{
+#container {
     display: grid;
     gap: 3rem;
     padding: 2rem;
 }
 
-.cartao{
+.cartao {
     background-color: var(--frente-cartão);
     border: 1px solid var(--destaque);
     padding: 40px;
@@ -50,11 +50,11 @@ footer{
     cursor: pointer;
 }
 
-.cartao:hover{
+.cartao:hover {
     transform: scale(1.036);
 }
 
-.resposta-cartao{
+.resposta-cartao {
     background-color: var(--verso-cartão);
     padding: 40px;
     display: none;
