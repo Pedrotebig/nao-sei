@@ -47,8 +47,14 @@ footer{
     padding: 40px;
     color: var(--preto);
     box-shadow: 11px 8px 6px var(--preto);
+    cursor: pointer;
 }
 
 .cartao:hover{
-    transform: scale(1.04);
+    transform: scale(1.03);
+}
+
+.resposta-cartao{
+    background-color: var(--verso-cartão);
+    padding: 40px;
 }
